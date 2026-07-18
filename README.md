@@ -1,4 +1,4 @@
-# ⚽ Copa Mundial de la FIFA 2026
+# Copa Mundial de la FIFA 2026
 
 ## Descripción
 
